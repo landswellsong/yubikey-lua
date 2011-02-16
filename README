@@ -1,0 +1,17 @@
+YubiKey token parsing and validation for Lua
+--- --- --- --- --- ---- --- --- --- --- ---
+
+This library allows you to parse OTP tokens from a YubiKey
+device, and also provides a validation framework for people
+who want to integrate OTP authentication into their applications.
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+NOTE: This project is MIT/X11 licensed - however the project     >
+      contains modified parts of aeslua, which is LGPL-licensed. >
+      Since LGPL is more restrictive than MIT, you should take   >
+      care to obey its requirements when using yubikey.lua in    >
+      your projects. See the docs in aeslua/ for more details.   >
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+The easiest way to use this library is to run 'squish' in its
+directory. Squish can be found at http://matthewwild.co.uk/projects/squish

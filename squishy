@@ -1,0 +1,12 @@
+Module "aeslua" "aeslua/init.lua"
+Module "aeslua.ciphermode" "aeslua/ciphermode.lua"
+Module "aeslua.aes" "aeslua/aes.lua"
+Module "aeslua.util" "aeslua/util.lua"
+Module "aeslua.buffer" "aeslua/buffer.lua"
+Module "aeslua.gf" "aeslua/gf.lua"
+
+Module "crc16" "crc16/crc16.lua"
+
+Main "yubikey/init.lua"
+
+Output "yubikey.lua"
