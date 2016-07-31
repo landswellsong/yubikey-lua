@@ -1,4 +1,4 @@
-local bit = require "bit";
+local bit = require "aeslua.bitwise";
 
 module "crc16"
 

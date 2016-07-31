@@ -1,4 +1,4 @@
-local bit = require("bit");
+local bit = require("aeslua.bitwise");
 
 local gf = require("aeslua.gf");
 local util = require("aeslua.util");
