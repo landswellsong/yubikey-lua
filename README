@@ -15,3 +15,6 @@ NOTE: This project is MIT/X11 licensed - however the project     >
 
 The easiest way to use this library is to run 'squish' in its
 directory. Squish can be found at http://matthewwild.co.uk/projects/squish
+
+Easy testing shortcut:
+lua -e 'package.path=package.path..";./?/init.lua"' -lyubikey -i
