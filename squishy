@@ -6,7 +6,7 @@ Module "aeslua.buffer" "aeslua/buffer.lua"
 Module "aeslua.gf" "aeslua/gf.lua"
 Module "aeslua.bitwise" "aeslua/bitwise.lua"
 
-Module "crc16" "crc16/crc16.lua"
+Module "crc16" "crc16/init.lua"
 
 Main "yubikey/init.lua"
 
