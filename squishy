@@ -4,6 +4,7 @@ Module "aeslua.aes" "aeslua/aes.lua"
 Module "aeslua.util" "aeslua/util.lua"
 Module "aeslua.buffer" "aeslua/buffer.lua"
 Module "aeslua.gf" "aeslua/gf.lua"
+Module "aeslua.bitwise" "aeslua/bitwise.lua"
 
 Module "crc16" "crc16/crc16.lua"
 
